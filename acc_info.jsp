@@ -28,10 +28,10 @@ e.printStackTrace();
 %>
 <table align="center" border = "1" bgcolor = "">
 <tr>
-<td>Credit</td>
-<td>Debit</td>
-<td>Transaction id</td>
-<td>Balance</td>
+<td>credit</td>
+<td>debit</td>
+<td>trans_id</td>
+<td>balance</td>
 
 </tr>
 <%
